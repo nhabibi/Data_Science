@@ -1,0 +1,7 @@
+"verbose_sim":	"true"
+"verbose_load":	"true"
+"duration":	"18000"
+"anim_hist":	"AntNet-scenario1"
+"ov_file":	"AntNet-scenario1"
+"log_file":	"AntNet-scenario1"
+"parallel_sim.num_processors":	"1"

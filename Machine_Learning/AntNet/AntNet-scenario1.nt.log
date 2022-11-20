@@ -1,0 +1,12 @@
+[Environment]
+duration=450.000000
+seed=0
+net_name=AntNet-scenario1
+sim_log_delim=TAB
+
+[Run Info]
+run_date=15:51:03 Sat Dec 22 2007
+
+
+[Summary]
+Low-Lev.	Simulation	Error	0
